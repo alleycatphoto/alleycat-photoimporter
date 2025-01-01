@@ -3,7 +3,7 @@
         'name' => 'alleycatphoto/photoimporter',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'bebd1696da6ca1d94c3672f624c1fee468959f51',
+        'reference' => 'd82e810f8e65f14d9da36e425582fd5534d59017',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'alleycatphoto/photoimporter' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'bebd1696da6ca1d94c3672f624c1fee468959f51',
+            'reference' => 'd82e810f8e65f14d9da36e425582fd5534d59017',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

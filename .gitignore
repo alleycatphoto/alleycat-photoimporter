@@ -17,3 +17,5 @@ thumbnails/
 
 # Node modules (if using JavaScript frontend)
 node_modules/
+
+.codegpt
