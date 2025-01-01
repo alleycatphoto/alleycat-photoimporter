@@ -33,8 +33,8 @@ dNefxGFcFB0WbSKHzfVou8a8h+0Zojd6MtRFfqmQRUrEgBrLvDM=
 -----END RSA PRIVATE KEY-----"
 
 # Configurable variables
-GITHUB_USER="alleycatphoto"
-GITHUB_TOKEN="YSHA256:9ypNyvYY7UDIHvkrgulvOoQx3imd5/sqH2tZNV75zZM="
+GITHUB_USER=$CLIENT_ID
+GITHUB_TOKEN=$CLIENT_SECRET
 REPO_NAME="alleycat-photoimporter"
 REPO_DESCRIPTION="AlleyCat PhotoImporter 3.0.7 - Magical photo importing, now with more frosting!"
 REMOTE_URL="https://github.com/$GITHUB_USER/$REPO_NAME.git"
