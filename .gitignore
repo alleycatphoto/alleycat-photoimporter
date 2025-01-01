@@ -1,0 +1,16 @@
+# Logs
+logs/*.log
+
+# Thumbnails
+thumbnails/
+
+# Cache
+.cache/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Node modules (if using JavaScript frontend)
+node_modules/

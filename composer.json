@@ -1,0 +1,16 @@
+{
+    "name": "alleycatphoto/photoimporter",
+    "description": "AlleyCat PhotoImporter 3.0.7 - Magical photo importing, now with more frosting!",
+    "require": {
+        "php": "^7.4|^8.0",
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AlleyCat\PhotoImporter\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit tests/"
+    }
+}
