@@ -112,7 +112,7 @@ cat <<EOL > composer.json
     },
     "autoload": {
         "psr-4": {
-            "AlleyCat\\PhotoImporter\\": "src/"
+            "AlleyCat\\\\PhotoImporter\\\\": "src/"
         }
     },
     "scripts": {
