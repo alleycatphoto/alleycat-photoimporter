@@ -13,7 +13,7 @@ AlleyCat PhotoImporter is a sophisticated, geeky tool for photographers that sim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Iv23likhf4Br9YsMxCGx/alleycat-photoimporter.git
+   git clone git clone https://github.com/alleycatphoto/alleycat-photoimporter.git
    ```
 
 2. Install dependencies:
